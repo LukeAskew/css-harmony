@@ -2,3 +2,19 @@
 
 $ms-base: 1em;
 $ms-ratio: $fourth;
+
+
+html {
+	font-size: 16px;
+	line-height: ms(1, 1);
+}
+
+h1 {
+	font-size: ms(3);
+	margin-top: ms(0);
+	margin-bottom: ms(-2);
+}
+
+p {
+	font-size: ms(0);
+}
