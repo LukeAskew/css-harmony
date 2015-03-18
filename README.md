@@ -14,7 +14,7 @@ $ npm start
 
 ## Presenation
 
-[Modular Scale and Harmonies in CSS](presentation.md)
+[Modular Scale and Harmonies in CSS](presentation.pdf)
 
 ## Resources
 
