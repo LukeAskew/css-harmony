@@ -7,6 +7,12 @@
 ---
 
 > Rhythm
+> Ems
+> Modular Scale
+
+---
+
+> Rhythm
 
 ---
 
